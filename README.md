@@ -1,2 +1,2 @@
-# cw1
+# cw1 Karolina Wierzchałek
 APBD
